@@ -1,4 +1,4 @@
-## NP_SKINSHOP
+## ESX_NP_SKINSHOP
 
 This is a merge between the original np_skinshop and esx_clotheshop, its working without issues and includes an outfit menu
 
